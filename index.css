@@ -1,0 +1,22 @@
+/* selector {
+    regla: valor;
+
+} */
+
+body {
+margin: 0; /* 10 20 30 40 Arriba, Derecha, Abajo, Izquierda */
+
+}
+
+p {
+    color: red;
+    background-color: black;
+    font-size: 100px;
+    font-family: Roboto, sans-serif;
+
+}
+
+.half {
+margin: 50%;
+background: chocolate;
+}
